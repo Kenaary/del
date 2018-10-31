@@ -4,7 +4,7 @@
     "team": "teamA",
     "sport": "soccer",
     "url": "https://google.com",
-    "image": "https://www.shape.com/sites/shape.com/files/styles/slide/public/gettyimages-902361588.jpg",
+    "image": "https://www.shape.com/sites/shape.com/files/styles/slide/public/olivier.jpg",
     "thumbnailImage": "https://img.fifa.com/image/upload/t_l3/nbrc75jgkjtfkuigolq5.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "team": "teamC",
     "sport": "football",
     "url": "https://google.com",
-    "image": "https://www.shape.com/sites/shape.com/files/styles/slide/public/gettyimages-902361588.jpg",
+    "image": "https://www.shape.com/sites/shape.com/files/styles/slide/public/fabian_0.jpg",
     "thumbnailImage": "https://www.shape.com/sites/shape.com/files/styles/slide/public/gettyimages-902361588.jpg"
   }
 ]
