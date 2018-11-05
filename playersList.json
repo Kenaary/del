@@ -1,5 +1,6 @@
 [
   {
+    "id":"0000",
     "name": "PlayerA",
     "team": "teamA",
     "sport": "soccer",
@@ -7,6 +8,7 @@
     "thumbnailImage": "https://img.fifa.com/image/upload/t_l3/nbrc75jgkjtfkuigolq5.jpg"
   },
   {
+    "id":"0001",
     "name": "PlayerB",
     "team": "teamB",
     "sport": "basketball",
@@ -14,6 +16,7 @@
     "thumbnailImage": "https://www.shape.com/sites/shape.com/files/styles/slide/public/olivier.jpg"
   },
   {
+    "id":"0010",
     "name":"PlayerC",
     "team": "teamC",
     "sport": "football",
