@@ -5,6 +5,7 @@
     "team": "teamA",
     "sport": "soccer",
     "nextGameDate": "2018-12-18",
+    "address": "3600 Ocean Dr.",
     "thumbnailImage": "https://img.fifa.com/image/upload/t_l3/nbrc75jgkjtfkuigolq5.jpg"
   },
   {
@@ -13,6 +14,7 @@
     "team": "teamB",
     "sport": "basketball",
     "nextGameDate": "2018-12-18",
+    "address": "3700 Ocean Dr.",
     "thumbnailImage": "https://www.shape.com/sites/shape.com/files/styles/slide/public/olivier.jpg"
   },
   {
@@ -21,6 +23,7 @@
     "team": "teamC",
     "sport": "football",
     "nextGameDate": "2018-12-20",
+    "address": "3800 Ocean Dr.",
     "thumbnailImage": "https://www.shape.com/sites/shape.com/files/styles/slide/public/gettyimages-902361588.jpg"
   }
 ]
