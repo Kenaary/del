@@ -1,0 +1,29 @@
+[
+  {
+    "id":"0000",
+    "name": "PlayerA",
+    "gameDate1": "2018-11-10",
+    "gameDate2": "2018-11-17",
+    "gameDate3": "2018-11-24",
+    "gameDate4": "2018-12-01",
+    "address": "3600 Ocean Dr.",
+  },
+  {
+    "id":"0001",
+    "name": "PlayerB",
+    "gameDate1": "2018-11-24",
+    "gameDate2": "2018-12-01",
+    "gameDate3": "2018-12-08",
+    "gameDate4": "2018-12-15",
+    "address": "3700 Ocean Dr.",
+  },
+  {
+    "id":"0002",
+    "name":"PlayerC",
+    "gameDate1": "2018-11-10",
+    "gameDate2": "2018-11-17",
+    "gameDate3": "2018-12-08",
+    "gameDate4": "2018-12-15",
+    "address": "3800 Ocean Dr.",
+  }
+]
